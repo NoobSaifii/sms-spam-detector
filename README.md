@@ -36,7 +36,7 @@ scikit-learn
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sms-spam-detector.git
+git clone https://github.com/NoobSaifii/sms-spam-detector.git
 cd sms-spam-detector
 ```
 
