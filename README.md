@@ -1,2 +1,4 @@
-# sms-spam-detector
-Machine learning project to classify SMS messages as spam or ham.
+# SMS Spam Detector 📱
+A simple spam detector using Naive Bayes and Bag-of-Words.
+
+## Run
